@@ -3,6 +3,8 @@
 dir c:\windows
 echo "Hello World !"
 # Prise de main
-c:\TeamViwerQS.exe
+c:\TeamViewerQS.exe
+# Test avec mot de passe
+echo [**password**]
 # Fin
 Fin du fichier des commandes
