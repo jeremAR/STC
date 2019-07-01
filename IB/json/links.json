@@ -1,11 +1,5 @@
 [
     {
-        "name": "ib-formation",
-        "color": "red",
-        "icon": "web",
-        "url": "https://www.ib-formation.fr/"
-	},
-    {
         "name": "Kit-Installateur",
         "color": "red",
         "icon": "web",
